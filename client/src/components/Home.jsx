@@ -40,7 +40,7 @@ const Home = () => {
       <footer class="bg-white rounded-lg shadow-sm dark:bg-gray-900 m-0">
         <div class="w-full max-w-screen-xl mx-auto md:py-8">
           <hr class="my-6 border-gray-500 sm:mx-auto dark:border-gray-700 lg:my-8" />
-          <span class="block text-xl text-gray-500 sm:text-center dark:text-gray-400">© 2025 <a href="https://flowbite.com/" class="hover:underline">CodeAstra</a>. All Rights Reserved.</span>
+          <span class="block text-xl text-gray-500 sm:text-center dark:text-gray-400">© 2025 <a href="https://flowbite.com/" class="hover:underline">CodeAstra</a>. All Rights are Reserved.</span>
         </div>
       </footer>
 
